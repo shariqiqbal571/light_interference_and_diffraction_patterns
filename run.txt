@@ -1,0 +1,3 @@
+python single_slit.py
+
+python double_slit.py
